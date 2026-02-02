@@ -65,7 +65,7 @@
 * Create a functional component inside that returns jsx
 * Paste the following variable in the component:
 ```jsx
-const students = ['Munther','Mohammad','Ahmad','Safa','Abeer','Salman']
+const students = ['Mohamed','Sara','Ahmad','Muqtada','Omar','Sayed']
 ```
 * Now what you should do is use .map() to show all the names of the students on the page inside of a `<ul></ul>`.
 * Now export the component and import it in the `App.jsx` and then render it under the buttons.
@@ -76,6 +76,6 @@ const students = ['Munther','Mohammad','Ahmad','Safa','Abeer','Salman']
 
 ### 9. BONUS BONUS Conditonal Rendering
 
-* Only print the student name on the page in the `StudentsList.jsx` if the name is NOT Salman
+* Only print the student name on the page in the `StudentsList.jsx` if the name is NOT Omar
 
 ---
