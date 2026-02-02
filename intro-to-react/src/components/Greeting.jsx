@@ -8,6 +8,9 @@ function Greeting(){
     }
 
     const isLoggedIn = false
+
+
+    
     return(
         <div>
             {myName === 'Omar' ? <h1>Welcome Omar</h1> : <h1>You are not logged in</h1> }
