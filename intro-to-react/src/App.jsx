@@ -1,10 +1,12 @@
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 function App() {
   return (
-    <div>
-      <Navbar></Navbar>
+    <>
+      <Navbar/>
       <h1>Welcome to my Website</h1>
-    </div>
+      <Footer/>
+    </>
   )
 }
 
